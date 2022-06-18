@@ -1,18 +1,18 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Renan Marangon",
+    "company": "Hi Platform"
   },
-  "title": "Next.js Course Starter Kit",
-  "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "title": "Drops",
+  "subtitle": "Gotas de sabedoria do oceano da tecnologia da informação",
+  "frontendMastersLink": "",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "renan-marangon-ferreira-da-cunha-5052a132",
+    "github": "maracunha",
+    "twitter": "re235"
   },
-  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "description": "abedoria do oceano da tecnologia da informação",
+  "keywords": ["drops", "JS", "javascript", "learn"],
+  "productionBaseUrl": "/drops",
   "csvPath": "./out/lessons.csv"
 }

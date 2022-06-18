@@ -1,25 +1,25 @@
 :root {
-  --primary: #dfa067;
-  --secondary: #93aca7;
-  --highlight: #224159;
+  --primary: #196D8D;
+  --secondary: #E1A920;
+  --highlight: #1D1D21;
 
   --text-header: var(--primary);
   --text-main-headers: var(--highlight);
   --text-links: #007bff;
   --text-footer: #333;
 
-  --bg-main: white;
+  --bg-main: #F3FBFE;
   --bg-dots: var(--highlight);
-  --bg-lesson: white;
+  --bg-lesson: #F3FBFE;
 
   --nav-buttons: var(--highlight);
-  --nav-buttons-text: white;
+  --nav-buttons-text: #F3FBFE;
 
   --corner-active: var(--highlight);
   --corner-inactive: #f4f4f4;
   --icons: var(--highlight);
   --footer-icons: var(--highlight);
 
-  --emphasized-bg: #dce8ff;
-  --emphasized-border: #aab6d2;
+  --emphasized-bg: #E14220;
+  --emphasized-border: #9D1B00;
 }
